@@ -26,6 +26,7 @@
     font-size: 60px;
     font-weight: bold;
     margin: 0 0 20px;
+    padding: 0;
     width: 60%;
     text-align: center;
 }
@@ -36,6 +37,7 @@
     font-weight: normal;
     width: 60%;
     margin: 0;
+    padding: 0;
     text-align: center;
 }
 
@@ -44,6 +46,7 @@
     font-size: 24px;
     font-weight: bold;
     margin: 0 0 20px;
+    padding: 0;
 }
 
 .table__text {
@@ -51,8 +54,9 @@
     font-size: 18px;
     font-weight: normal;
     margin: 20px 0;
+    padding: 0;
 }
 
-.table__text_info {
+.table__text__info {
     margin-top: 20px;
 }

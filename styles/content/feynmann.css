@@ -21,6 +21,7 @@
     font-size: 120px;
     font-weight: bold;
     margin: 100px auto 70px;
+    padding: 0;
     width: 648px;
     z-index: 1;
 }
