@@ -9,6 +9,20 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* ROTATION */
+
+@keyframes rotation {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
+}
+.rotation {
+ 
+  animation: rotation 20s linear infinite forwards;
+
+}
+
+
+
 /* HEADER / НАУЧИТЬСЯ УЧИТЬСЯ */
 
 .header {
@@ -19,6 +33,7 @@
   max-height: 756px;
   background-color: #f2f2f2;
   margin-bottom: 100px;
+  overflow: hidden;
   /* выше установили ограничения для секции */
 }
 
@@ -76,6 +91,8 @@
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+
+
 .header__square-pic {
   position: absolute;
   right: 0;
