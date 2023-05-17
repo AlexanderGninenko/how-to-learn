@@ -14,9 +14,10 @@ ___
 * CSS Grid
 * CSS Animation
  
-✔️ **Примеры** 
-* Декстопная версия
-<img src="https://alexandergninenko.github.io/how-to-learn/" alt="Декстопная версия" width="500"/>
+✔️ **Декстопная версия**  
+
+https://alexandergninenko.github.io/how-to-learn/
+
 
 #### 🔧 Технологии
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
